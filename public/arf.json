@@ -6444,6 +6444,11 @@
       "url": "https://github.com/csirtgadgets/massive-octo-spice"
     },
     {
+      "name": "AlienVault-Open Threat eXchange",
+      "type": "url",
+      "url": "https://otx.alienvault.com/"
+    },
+    {
       "name": "Bot Scout",
       "type": "url",
       "url": "http://botscout.com/"
